@@ -35,7 +35,7 @@ public class Estudante implements intercurso{
 		
 		for(intercurso x : cursosestudante){
 			
-			nomecursos = nomecursos + x.GetNome_do_Curso() + "\n";
+			nomecursos = nomecursos + x.GetNome_do_Curso()+ "\n";
 			
 			
 		}

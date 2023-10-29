@@ -10,19 +10,6 @@ public abstract class Curso implements intercurso {
 	public double valor_parcela;
 	public double valor_total;
 	
-	public void salvar() {
-		
-		System.out.println("salvando...");
-		
-	}
-	
-	public void delete() {
-		System.out.println("Deletando...");
-	}
-	
-	
-	public void find_one() {
-		System.out.println("Localizando...");
-	}
+
 	
 }

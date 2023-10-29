@@ -8,15 +8,15 @@ public class consumidor{
 		
 		//inserir clientes na tbl_clientes;
 		
-		//pessoaFisica cli; 
+		pessoaFisica cli; 
 		
-		//cli = new pessoaFisica ();
+		cli = new pessoaFisica ();
 		
-		//cli.nome = "joao pedro";
-		//cli.registro = "123.456.789";
-		//cli.email = "jp@gmail.com";
+		cli.nome = "joao pedro";
+		cli.registro = "123.456.789";
+		cli.email = "jp@gmail.com";
 		
-		//cli.salvar();
+		cli.salvar();
 		//cli.delete();//
 		//cli.find_one();
 		
